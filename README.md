@@ -5,7 +5,7 @@ Open-Redirect is a tool for detecting open redirect vulnerabilities in web appli
 </p>
 
 <p align="center">
-  <img src="https://github.com/denoyey/Open-Redirect/blob/b72c58e1731c6be449a621142c2bdb745e0d1208/Review-Tools.png" alt="Open-Redirect"/>
+  <img src="https://github.com/denoyey/Open-Redirect/blob/91828a4066856b8e35fe7d94b9d98d89e462e7a2/Review.png" alt="Open-Redirect"/>
 </p>
 
 <div align="left">
