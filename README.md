@@ -4,7 +4,7 @@
 Open-Redirect is a tool for detecting open redirect vulnerabilities in web applications. These flaws allow attackers to redirect users to malicious sites using trusted URLs. This tool tests various parameters and payloads to identify unsafe redirects. Ideal for penetration testing and web security education.
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://github.com/denoyey/Open-Redirect/blob/91828a4066856b8e35fe7d94b9d98d89e462e7a2/Review.png" alt="Open-Redirect"/>
 </p>
 
