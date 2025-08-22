@@ -76,6 +76,6 @@ python openredirect.py
 - `log.txt` — Full scan log output.
 
 ## 🙌 Credits
-Developed by <a href="https://github.com/denoyey">denoyey</a>.
-Built for educational and ethical penetration testing purposes only.
+Developed by <a href="https://github.com/denoyey">denoyey</a>. <br />
+Built for educational and ethical penetration testing purposes only. <br />
 Contributions and pull requests are welcome!
