@@ -1,14 +1,16 @@
-## OPEN-REDIRECT
+<div align="center">
 
-<p align="left">
+# OPEN-REDIRECT
+
+<p align="center">
   <img src="https://github.com/denoyey/Open-Redirect/blob/91828a4066856b8e35fe7d94b9d98d89e462e7a2/Review.png" alt="Open-Redirect"/>
 </p>
 
-<p align="left">
+<p align="center">
 Open-Redirect is a tool for detecting open redirect vulnerabilities in web applications. These flaws allow attackers to redirect users to malicious sites using trusted URLs. This tool tests various parameters and payloads to identify unsafe redirects. Ideal for penetration testing and web security education.
 </p>
 
-<div align="left">
+<div align="center">
 
 ![Build](https://img.shields.io/badge/build-stable-28a745?style=for-the-badge&logo=github)
 ![Platform](https://img.shields.io/badge/platform-Linux-0078D6?style=for-the-badge&logo=linux&logoColor=white)
@@ -23,6 +25,8 @@ Open-Redirect is a tool for detecting open redirect vulnerabilities in web appli
 <br />
 
 <img src="https://api.visitorbadge.io/api/VisitorHit?user=denoyey&repo=Open-Redirect&countColor=%237B1E7A&style=flat-square" alt="visitors"/>
+
+</div>
 
 </div>
 
